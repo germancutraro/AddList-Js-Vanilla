@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif; }
+
+
+ul li {
+  margin-bottom: .5em; }
+
+
+small { line-height: 10px; }
+
+ul li:hover {
+  text-decoration: line-through;
+  cursor: pointer; }
